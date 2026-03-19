@@ -1,3 +1,7 @@
+# NAME: KRITHIKA SHERIN A.O
+# REG NO: 212224060129
+# EXP Name: PSK and QPSK
+
 # PSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
@@ -135,6 +139,8 @@ plt.show()
 
 
 # QPSK
+<img width="1015" height="809" alt="Screenshot 2026-03-19 133312" src="https://github.com/user-attachments/assets/1179ec9c-ddb5-4b14-9005-c7bb712a07dc" />
+
 
 # Results
 The PSK and QPSK signals were successfully modulated and demodulated using CoLab
