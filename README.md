@@ -1,8 +1,6 @@
 # NAME: KRITHIKA SHERIN A.O
 # REG NO: 212224060129
 # EXP Name: PSK and QPSK
-
-# PSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
